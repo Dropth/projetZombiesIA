@@ -1,0 +1,9 @@
+C:\Users\Florian\Documents\Visual Studio 2015\Projects\ProjetIA\ProjetIA\obj\Debug\ProjetIAZ.csprojResolveAssemblyReference.cache
+C:\Users\Florian\Documents\Visual Studio 2015\Projects\ProjetIA\ProjetIA\obj\Debug\ProjetIA.Properties.Resources.resources
+C:\Users\Florian\Documents\Visual Studio 2015\Projects\ProjetIA\ProjetIA\obj\Debug\ProjetIAZ.csproj.GenerateResource.Cache
+C:\Users\Florian\Documents\Visual Studio 2015\Projects\ProjetIA\ProjetIA\bin\Debug\ProjetIAZ.exe.config
+C:\Users\Florian\Documents\Visual Studio 2015\Projects\ProjetIA\ProjetIA\bin\Debug\ProjetIAZ.exe
+C:\Users\Florian\Documents\Visual Studio 2015\Projects\ProjetIA\ProjetIA\bin\Debug\ProjetIAZ.pdb
+C:\Users\Florian\Documents\Visual Studio 2015\Projects\ProjetIA\ProjetIA\obj\Debug\ProjetIAZ.exe
+C:\Users\Florian\Documents\Visual Studio 2015\Projects\ProjetIA\ProjetIA\obj\Debug\ProjetIAZ.pdb
+C:\Users\Florian\Documents\Visual Studio 2015\Projects\ProjetIA\ProjetIA\bin\Debug\map
